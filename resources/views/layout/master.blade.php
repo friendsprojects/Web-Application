@@ -8,7 +8,11 @@
         <link rel="stylesheet" href="{{ URL::to('src/css/app.css') }}">
     </head>
     <body>
-        @include('include.header')
+        <div class="container">
+            @yield('signin')
+        </div>
+        
+        @yield('needHeader')
         <br>
         <div class="container container-main">
             @yield('container')

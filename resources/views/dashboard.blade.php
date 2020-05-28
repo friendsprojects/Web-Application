@@ -4,6 +4,10 @@
     Dashboard
 @endsection
 
+@section('needHeader')
+    @include('include.header')
+@endsection
+
 @section('container')
     <div class="row mb-3">
         <div class="col-md-4">
