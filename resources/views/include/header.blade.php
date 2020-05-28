@@ -17,8 +17,9 @@
                     <ul class="nav flex-column">
                         <li class="nav-item">
                             <a href="#" class="nav-link active">
-                                <span data-feather="home"></span>
+                                <i data-feather="home"></i>
                                 Dashboard
+                                <span class="sr-only">(current)</span>
                             </a>
                         </li>
                         <li class="nav-item">
