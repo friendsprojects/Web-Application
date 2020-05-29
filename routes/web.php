@@ -21,4 +21,8 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/dashboard', function () {
         return view('dashboard');
     })->name('dashboard');
+
+    Route::get('/add-book', function () {
+        return view('addBook');
+    })->name('addBook');
 });

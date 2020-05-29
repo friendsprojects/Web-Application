@@ -16,6 +16,7 @@ li {
     border-radius: 0px;
     margin-bottom: 0px;
     min-height: 48px;
+    position: fixed;
 }
 
 .feather {
@@ -76,6 +77,7 @@ li {
 /* Master CSS */
 
 .container-main {
+    padding-top: 25px;
     margin-left: 250px;
     width: 75%;
     margin-right: auto;
@@ -141,4 +143,10 @@ li {
 
 .form-signin input[type="password"] {
     margin-bottom: 10px;
+}
+
+/* AppBook CSS */
+
+.float-right {
+    margin-bottom: 25px;
 }

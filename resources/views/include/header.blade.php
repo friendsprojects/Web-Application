@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow fixed-top">
         <a href="#" class="navbar-brand col-md-3 col-lg-2 mr-0 px-3"> Eurca </a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">

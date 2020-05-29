@@ -9,6 +9,10 @@
 @endsection
 
 @section('container')
+
+    <h3>Dashboard</h3>
+    <hr>
+    <h4>Quick Access</h4>
     <div class="row mb-3">
         <div class="col-md-4">
             <div class="card">
