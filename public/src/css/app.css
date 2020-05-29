@@ -150,3 +150,8 @@ li {
 .float-right {
     margin-bottom: 25px;
 }
+
+.multi-btn {
+    margin-right: 10px;
+    margin-left: 10px;
+}

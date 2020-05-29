@@ -26,20 +26,32 @@
         <div class="form-row">
             <div class="form-group col-md-12">
                 <label for="author_name">Author Name</label>
-                <input typer="text" class="form-control" id="author_name" name="author_name">
+                <div class="form-inline">
+                    <input typer="text" class="form-control col" id="author_name1" name="author_name1">
+                    <input typer="text" class="form-control multi-btn col" id="author_name2" name="author_name2">
+                    <input typer="text" class="form-control col" id="author_name3" name="author_name3">
+                </div>
                 
             </div>
         </div>
         <div class="form-row">
             <div class="form-group col-md-12">
                 <label for="genre">Geren</label>
-                <input typer="text" class="form-control" id="genre" name="genre">
+                <div class="form-inline">
+                    <input typer="text" class="form-control col" id="genre1" name="genre1">
+                    <input typer="text" class="form-control multi-btn col" id="genre2" name="genre2">
+                    <input typer="text" class="form-control col" id="genre3" name="genre3">
+                </div>
             </div>
         </div>
         <div class="form-row">
             <div class="form-group col-md-12">
                 <label for="keywords">Keywords</label>
-                <input typer="text" class="form-control" id="keywords" name="keywords">
+                <div class="form-inline">
+                    <input typer="text" class="form-control col" id="keywords1" name="keywords1">
+                    <input typer="text" class="form-control multi-btn col" id="keywords2" name="keywords2">
+                    <input typer="text" class="form-control col" id="keywords3" name="keywords3">
+                </div>
             </div>
         </div>
         <div class="form-row">
