@@ -155,3 +155,15 @@ li {
     margin-right: 10px;
     margin-left: 10px;
 }
+
+/* ViewBook & EditBook CSS */
+
+.table-scroll {
+    border-collapse: collapse;
+    min-width: 1500px;
+    overflow-x: scroll;
+}
+
+.book-image {
+    height: 300px;
+}
