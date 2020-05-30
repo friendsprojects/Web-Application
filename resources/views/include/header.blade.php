@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow fixed-top">
-        <a href="#" class="navbar-brand col-md-3 col-lg-2 mr-0 px-3"> Eurca </a>
+        <a href="{{ route('dashboard') }}" class="navbar-brand col-md-3 col-lg-2 mr-0 px-3"> Eurca </a>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="nav navbar-nav navbar-right">
@@ -16,20 +16,20 @@
                 <div class="sidebar-sticky pt-3">
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a href="#" class="nav-link active">
+                            <a href="{{ route('dashboard') }}" class="nav-link active">
                                 <i data-feather="home"></i>
                                 Dashboard
                                 <span class="sr-only">(current)</span>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">View Books</a>
+                            <a href="{{ route('viewBook') }}" class="nav-link">View Books</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Edit Books</a>
+                            <a href="{{ route('editBook') }}" class="nav-link">Edit Books</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Add Books</a>
+                            <a href="{{ route('addBook') }}" class="nav-link">Add Books</a>
                         </li>
                     </ul>
                 </div>

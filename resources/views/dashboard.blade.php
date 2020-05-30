@@ -18,7 +18,7 @@
             <div class="card">
                 <img src="{{ URL::to('asset/view.png') }}" alt="edit" style="width:100%; padding-top: 10px">
                 <div class="card-body">
-                    <h4>View Books</h4>
+                    <a href="{{ route('viewBook') }}" class="dashboard-link"> <h4>View Books</h4> </a>
                 </div>
             </div>
         </div>
@@ -27,8 +27,7 @@
             <div class="card">
                 <img src="{{ URL::to('asset/edit.png') }}" alt="edit" style="width:100%; padding-top: 10px">
                 <div class="card-body">
-                    
-                    <h4>Edit Books</h4>
+                    <a href="{{ route('editBook') }}" class="dashboard-link"> <h4>Edit Books</h4> </a>
                 </div>
             </div>
         </div>
@@ -36,7 +35,7 @@
             <div class="card">
                 <img src="{{ URL::to('asset/add.png') }}" alt="edit" style="width:100%; padding-top: 10px">
                 <div class="card-body">
-                    <h4>Add Books</h4>
+                    <a href="{{ route('addBook') }}" class="dashboard-link"> <h4>Add Books</h4> </a>
                 </div>
             </div>
         </div>
