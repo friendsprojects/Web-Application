@@ -29,4 +29,8 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/view-book', function () {
         return view('viewBook');
     })->name('viewBook');
+
+    Route::get('/edit-book', function () {
+        return view('editBook');
+    })->name('editBook');
 });

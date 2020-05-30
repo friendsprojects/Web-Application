@@ -145,7 +145,7 @@ li {
     margin-bottom: 10px;
 }
 
-/* AppBook CSS */
+/* AppBook and EditBook CSS */
 
 .float-right {
     margin-bottom: 25px;
@@ -167,3 +167,9 @@ li {
 .book-image {
     height: 300px;
 }
+
+i:hover {
+    font-size: 18px;
+    transition: 0.3s;
+}
+

@@ -25,5 +25,6 @@
         <script src="https://unpkg.com/feather-icons"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.27.0/feather.js"></script>
         <script language="JavaScript" type="text/javascript" src="{{ URL::to('src/js/app.js') }}"></script>
+        <script src="https://kit.fontawesome.com/fd77a0c704.js" crossorigin="anonymous"></script>
     </body>
 </html>
