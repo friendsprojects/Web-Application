@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testwebapplaravel",
+  "private_key_id": "b03faf3a4506b097d5c8b87ff3a9870c2de8d29b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+rL1Gn8BOtp6P\nMmm0pue4iT4pBljE/wJZpGQl/a6I8kmd4ZLibLkD6t/F6+FTLIr41Vr9JRgegKr7\nGc9DzDhntQhQJnw0CUDGOTdhrJGNTMGx2wytGDEl7i3QQyrkEdDcQ7pvLkxHsoKn\nZarvMRfk4TGQYzIJpyZ576PthzCipOyiblger5Kv5VErI+mzTepdl+ykDPAteFrw\nEbtX9YfiEFTcih5WKIhoATaHLX4XHIhNvpSoTRX7YNVahJXMIBoqZ8mwGptSJUYT\n1GSQnLkNyyyzNYcMs/f4ZC5WgDlRjofbq0rzDscsDnL99IsKOaEjm3cS3aVJ6yUG\nzbW0iXP1AgMBAAECggEAAq5YHPmbESBFO3s4fEdKg9A+NQJ3VhHF3S/QDq6x+Q/7\nFAK7d36S3Wi8i8Jk0TATpisN0/hlDey+Oriiru/crSyg+MuJvIuSwxbD3hY4l7WI\nFbGgTIDGFCP0tfRz0nAjsS0snmqWvP1YE/V8gU996AR4l3Cln/gfNOC3O9xGRUsp\nJ13t3YsR/VzbmiznNeDJWWhj73J7s8MdSA7/Ei9tgipLN0Yk/u4FB/B+6Bvfd+LT\nXjyltSJ7lYGd+GyUvCEVcOl19+fqNOPjZ+wWFhaNgiDH4HcVDKp+MUKtTiLezhj7\nZeibYAAp1UMIOIJr5PsO2B7kxhLwd9AKuznbi/jW8QKBgQDjkyUpN9loIQXJWnV1\nUkdjAH3wdAEwBM/8mztFn6SDmgKap2LQRNfH998uGmjJJ7hPCGypl/T72rhoBZcJ\nzmdMBQHPMm9oAm1dJEAyPHJuThdPmDoWYukWWHplkw5sKCayExvrrii+H3mAsMFG\nbhIw2kQNA4ofo+9eVEKOH5Kf/QKBgQDWfbEE0kvymTHFerLK1ooB9j76JjTTHtix\n503hmRA70TTuaqua//K5gRJhJ8taTDyQw001/l9nOOkGHVogJKpW97no4xngKX5S\nRxcuQIqGkPNXaVXczOxlg1XVURPrLIVIr/j/z+5G4dY8dviJz7NdEW+c6F+748sC\nNnpFflq5WQKBgCpqh5eaIDxnQ0PXR2M5lbKfKdoCVSJVE0r6x95fNfONZgTbQ/Cb\nlDhiO8fFBljPvWuFn3Mwrmmux4Yj3JXoUZp6qG6s8NTK9wVQN2Lln1Jt3axpLBJ2\nFwmiLhX2hc6k4Sl5pE+WI2PkS+ovh6aP53YRiHOAgGMLVBcZz1ncCqElAoGAOkn6\nG0dTIGCFaBdKE1luM85Jmw1a+ay+Usp7Hb3M7ZSS/9+5NuwreEIdTo3T83wYUXbh\nurSgFJsgqGq9nVKZf/zeZu2gkIx2KcHsCMO9YYhuuOiFTvXZoFSqtMfN0/FLX0+D\nKXHGXTjuUYw7SqhJJBei708vBQ6IktdfLxeBbDECgYB/JDCecv81kmBdXzWMbVW6\nQSBVNwFFH/hkGWDMidAk+fmmp70ifVULiaZwYx9hg70lSL9Buf/znWM9ueXelmTE\nYzhJNazh0aIkN1iazLNADtKdsgorH8L70IihxF26afQO+EoiXRFxjqa3t/c/NtfJ\nDogD5mHKv9YVrdVDlDGceQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "testwebapplaravel@appspot.gserviceaccount.com",
+  "client_id": "108837324337559108020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testwebapplaravel%40appspot.gserviceaccount.com"
+}

@@ -33,4 +33,8 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/edit-book', function () {
         return view('editBook');
     })->name('editBook');
+
+    
 });
+
+Route::get('firebase', 'FirebaseController@index');
